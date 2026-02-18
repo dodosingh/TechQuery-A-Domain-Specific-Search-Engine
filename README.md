@@ -2,6 +2,8 @@ Tech Domain Search Engine
 
 A full-stack, tech-focused search engine built from scratch featuring automated web crawling, a custom C++ indexing core, and a responsive Flutter frontend.
 
+
+
 🚀 Project Overview
 
 This project implements a scalable search engine system designed specifically for technology and gadget-related content. It includes an automated crawler, persistent data storage, a high-performance C++ search engine core using inverted indexing and TF-IDF ranking, and a modern Flutter-based UI for fast and intuitive search interactions.
